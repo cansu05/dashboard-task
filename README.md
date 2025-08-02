@@ -33,8 +33,7 @@ Kurulum ve Çalıştırma
 Geliştirme ortamını başlatmak için:
 
 bash
-Kopyala
-Düzenle
+
 npm install
 npm run dev
 
@@ -48,6 +47,7 @@ Toplam kWh hesaplama fonksiyonu için Jest ile test yazılmıştır.
 Testi çalıştırmak için:
 
 bash
+
 npm run test
 
 ****************
