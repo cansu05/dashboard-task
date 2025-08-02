@@ -35,6 +35,7 @@ Geliştirme ortamını başlatmak için:
 bash
 
 npm install
+
 npm run dev
 
 ****************
