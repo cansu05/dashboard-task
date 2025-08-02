@@ -51,14 +51,7 @@ bash
 
 npm run test
 
-****************
 
-Proje Yapısı (Özet)
-Klasör / Dosya	Açıklama
-app/dashboard/page.jsx	Dashboard sayfa bileşeni
-components/InfoCard.jsx	Bilgi kartı bileşeni
-components/EnergyChart.jsx	24 saatlik grafik bileşeni
-mockData/energyData.js	Sahte enerji verisi
-utils/calculateTotalKwh.js	Toplam hesaplama fonksiyonu
-utils/calculateTotalKwh.test.js	Fonksiyon testi (Jest)
+
+
 
